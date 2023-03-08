@@ -16,7 +16,7 @@ body {
   width: 500px;
   height: 500px;
   background-color: rgb(153, 145, 215);
-  border: 2px solid rgb(37, 30, 131);
+  border: 10px solid rgb(37, 30, 131);
   display: flex;
   flex-direction: column;
 }
