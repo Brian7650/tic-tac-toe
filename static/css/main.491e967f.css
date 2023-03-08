@@ -1,2 +1,0 @@
-.App{align-items:center;display:flex;height:100vh;justify-content:center;width:100vw}body{margin:0;padding:0}.board{background-color:gray;flex-direction:column;height:500px;width:500px}.board,.row{border:2px solid #000;display:flex}.row{flex:33% 1;flex-direction:row}.square{border:2px solid #000;color:#000;cursor:pointer;display:grid;flex:33% 1;font-size:100px;height:100%;place-items:center}.square:active{background-color:#a9a9a9}
-/*# sourceMappingURL=main.491e967f.css.map*/

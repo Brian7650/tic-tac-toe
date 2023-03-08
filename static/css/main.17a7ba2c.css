@@ -1,0 +1,2 @@
+.App{align-items:center;display:flex;height:100vh;justify-content:center;width:100vw}body{font-family:Climate Crisis,cursive;margin:0;padding:0}.board{background-color:#431e83;border:2px solid #c691d7;display:flex;flex-direction:column;height:500px;width:500px}.row{display:flex;flex:33% 1;flex-direction:row}.row,.square{border:2px solid #431e83}.square{color:#431e83;cursor:pointer;display:grid;flex:33% 1;font-size:100px;height:100%;place-items:center}.square:active{background-color:#a9a9a9}
+/*# sourceMappingURL=main.17a7ba2c.css.map*/
